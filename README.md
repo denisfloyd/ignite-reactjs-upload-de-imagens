@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://repository-images.githubusercontent.com/346402665/17e19380-840e-11eb-86b6-5475e99b6392" />
 
 <h3 align="center">
-  Desafio 04: Ignite Image Post Blog
+  Desafio Módulo 4 - Desafio 2: Ignite Image Post Blog
 </h3>
 
 <p align="center">
